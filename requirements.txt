@@ -1,0 +1,9 @@
+autogen-agentchat>=0.4.5
+autogen-ext[openai]>=0.4.5
+fastapi
+uvicorn
+websockets
+motor
+markitdown
+python-multipart
+python-dotenv
