@@ -2,9 +2,7 @@
 
 
 
-<img src="file:///C:/Users/kimda/Downloads/제목을%20입력해주세요..png" title="" alt="제목을 입력해주세요..png" data-align="center">
-
-
+![프로젝트 배너](assets/banner.png)
 
 본 프로젝트는 제품 성분표(BOM)가 포함된 문서를 업로드하면,  **AI 에이전트 팀**이 각 성분의 대한민국 식품안전법령 준수 여부를 자동으로 검증하고 종합 보고서를 생성하는 시스템입니다.
 
@@ -38,9 +36,11 @@
 
 본 시스템은 명확한 역할 분담을 가진 다중 에이전트(Multi-Agent)가 유기적으로 협력하는 `GraphFlow` 구조로 설계되었습니다.
 
-<img src="file:///C:/Users/kimda/Downloads/Untitled.png" title="" alt="Untitled.png" data-align="center">
+![프로젝트 배너](assets/workflow.png)
 
 ---
+
+
 
 ## 🛠️ 기술 스택
 
